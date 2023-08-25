@@ -6,7 +6,7 @@
 	opacity: 70%
 }
 .movieDetail{
-	position: static;
+	position: fixed;
 	top: 100px;
 	width: 100px;
 	text-align: center;
